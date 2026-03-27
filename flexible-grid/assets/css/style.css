@@ -20,30 +20,37 @@ html {
 }
 
 main {
-background-image: url("https://github.com/AndreasH3256/ifsc-34203/blob/main/flexible-grid/assets/img/grid.png?raw=true");
-width: 960px;
-margin: 20px auto;
+/* background-image: url("https://github.com/AndreasH3256/ifsc-34203/blob/main/flexible-grid/assets/img/grid.png?raw=true"); */
+width: 80vw;
+margin: 10px auto;
 border: 1px solid #000;  
 }
 
 header.primary, footer.primary{
-/*  width:900px; */
-width: 900px;
+/*  width:940px; */
+width: 97.916%;
 background: rgba(0, 0, 0, 0.4);
-margin: 20px;
+margin: 1.0416%;
 padding: 20px;
 float: left;
  
 }
 
 #blog{
-/*   width:638px; */
-  background: rgba(0, 0, 0, 0.6);
-
+/*   width:580px; */
+width: 60.4166%;
+background: rgba(0, 0, 0, 0.6);
+padding: 20px;
+float: left;
+margin-left: 1.0416%;
 
 }
 
 aside {
-  background: rgba(0, 0, 0, 0.3);
- 
+/*   width:340px; */
+width: 35.4166%;
+background: rgba(0, 0, 0, 0.3);
+padding: 20px;
+float: left;
+margin-left: 2.0833%;
 }
