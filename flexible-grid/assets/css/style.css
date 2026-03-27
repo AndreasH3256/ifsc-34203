@@ -20,35 +20,30 @@ html {
 }
 
 main {
-background-image:url("http://gridcalculator.dk/#/1140/6/16/20")
-width:80vw;
+background-image: url("https://github.com/AndreasH3256/ifsc-34203/blob/main/flexible-grid/assets/img/grid.png?raw=true");
+width: 960px;
 margin: 20px auto;
 border: 1px solid #000;  
 }
 
 header.primary, footer.primary{
-/*  width:920px; */
- width:95.833%;
- background: rgba(0, 0, 0, 0.4);
- margin: 2.0833%;
- padding: 20px;
- float: left; 
+/*  width:900px; */
+width: 900px;
+background: rgba(0, 0, 0, 0.4);
+margin: 20px;
+padding: 20px;
+float: left;
+ 
 }
 
 #blog{
 /*   width:638px; */
-  width: 66.4583%;
-  margin-left: 2.0833%;
   background: rgba(0, 0, 0, 0.6);
-  padding: 20px;
-  float: left;
+
 
 }
 
 aside {
   background: rgba(0, 0, 0, 0.3);
-  width: 27.2916%;
-  margin-left: 2.0833%;
-  padding: 20px;
-  float: left;
+ 
 }
